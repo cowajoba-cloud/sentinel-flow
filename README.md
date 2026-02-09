@@ -20,6 +20,33 @@ This repository bridges my **MSc research labs**, **PhD preparation**, and **rea
 ---
 
 ## 🗂️ Repo Structure
+sentinel-flow/
+├── 00-foundations/
+│   ├── python-basics/
+│   ├── data-structures/
+│   └── algorithms/
+├── 01-backend-systems/
+│   ├── api-design/
+│   ├── auth-patterns/
+│   └── service-architecture/
+├── 02-distributed-systems/
+│   ├── trust-boundaries/
+│   ├── message-flows/
+│   └── failure-models/
+├── 03-secure-by-design/
+│   ├── threat-models/
+│   ├── secure-pipelines/
+│   └── architecture-diagrams/
+├── 04-ai-integration/
+│   ├── model-interfaces/
+│   ├── agent-patterns/
+│   └── guardrails/
+├── docs/
+│   ├── README.md
+│   ├── learning-notes.md
+│   ├── weekly-progress.md
+│   └── architecture-decisions.md
+└── README.md
 
 **00-foundations/ 🏗️** – Core programming and problem-solving  
 - `python-basics/` – Python syntax, functions, OOP  
@@ -84,12 +111,10 @@ This approach ensures that **concepts build on each other**, and **Sentinel Flow
 git clone https://github.com/cowajoba-cloud/sentinel-flow.git
 cd sentinel-flow
 
-📞 Contact
+---
 
+## 📞 Contact
 Charles Owajoba
-
 MSc Computer Science (Software Engineering)
-
-GitHub: cowajoba-cloud
-
-LinkedIn: Charles Owajoba
+GitHub: https://github.com/cowajoba-cloud 
+LinkedIn: https://www.linkedin.com/in/charlesowajoba/ 
