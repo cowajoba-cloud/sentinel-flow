@@ -1,6 +1,8 @@
 # **Charles Owajoba**
 MSc Computer Science (Software Engineering)
+
 **GitHub**: https://github.com/cowajoba-cloud 
+
 **LinkedIn**: https://www.linkedin.com/in/charlesowajoba/ 
 
 # 🛡️ Sentinel Flow
@@ -88,24 +90,24 @@ sentinel-flow/
 
 ## 🧩 How This Repository Works
 
-1. **Foundations** → Learn coding, DS&A, algorithms, and basic problem-solving  
-2. **Backend Systems** → Implement APIs, authentication, and service architecture  
-3. **Distributed Systems** → Explore trust boundaries, message flows, and failures  
-4. **Secure-by-Design** → Integrate threat modeling, secure pipelines, and CI/CD  
-5. **AI Integration** → Experiment with ML/AI and event-driven agent patterns  
-6. **Docs** → Reflect, document, and make your learning **visible and sharable**  
+1. Foundations → Learn coding, DS&A, algorithms, and basic problem-solving  
+2. Backend Systems → Implement APIs, authentication, and service architecture  
+3. Distributed Systems → Explore trust boundaries, message flows, and failures  
+4. Secure-by-Design → Integrate threat modeling, secure pipelines, and CI/CD  
+5. AI Integration → Experiment with ML/AI and event-driven agent patterns  
+6. Docs → Reflect, document make learning visible and sharable 
 
-This approach ensures that **concepts build on each other**, and **Sentinel Flow evolves from learning → system → publishable concept**.
+This approach ensures that concepts build on each other, and Sentinel Flow evolves from learning → system → publishable concept.
 
 ---
 
 ## 🔑 Key Principles
 
-- ✅ Build for **understanding, not shortcuts**  
-- ✅ Prefer **simple systems that fail predictably**  
-- ✅ Treat **security as a design concern, not a patch**  
-- ✅ **Document every decision**, trade-off, and lesson  
-- ✅ Optimize for **long-term growth and Big Tech visibility**
+- ✅ Build for understanding, not shortcuts
+- ✅ Prefer simple systems that fail predictably 
+- ✅ Treat security as a design concern, not a patch
+- ✅ Document every decision, trade-off, and lesson  
+- ✅ Optimize for long-term growth and Big Tech visibility
 
 ---
 
