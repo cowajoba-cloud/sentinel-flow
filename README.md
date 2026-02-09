@@ -1,6 +1,11 @@
-# 🌟 Sentinel Flow
+# **Charles Owajoba**
+MSc Computer Science (Software Engineering)
+**GitHub**: https://github.com/cowajoba-cloud 
+**LinkedIn**: https://www.linkedin.com/in/charlesowajoba/ 
 
-**Your Big-Tech–Ready Engineering Repository**  
+# 🛡️ Sentinel Flow
+
+**Big-Tech–Ready Engineering Repository**  
 
 Sentinel Flow is a **long-term engineering and learning repository** focused on building **secure, scalable, and production-minded systems**.  
 It documents my journey in **backend engineering, distributed systems, secure-by-design, AI integration**, and **DevSecOps practices**.  
@@ -18,35 +23,6 @@ This repository bridges my **MSc research labs**, **PhD preparation**, and **rea
 - 📈 Provide a foundation for **future startup MVPs and Sentinel Flow product evolution**
 
 ---
-
-## 🗂️ Repo Structure
-sentinel-flow/
-├── 00-foundations/
-│   ├── python-basics/
-│   ├── data-structures/
-│   └── algorithms/
-├── 01-backend-systems/
-│   ├── api-design/
-│   ├── auth-patterns/
-│   └── service-architecture/
-├── 02-distributed-systems/
-│   ├── trust-boundaries/
-│   ├── message-flows/
-│   └── failure-models/
-├── 03-secure-by-design/
-│   ├── threat-models/
-│   ├── secure-pipelines/
-│   └── architecture-diagrams/
-├── 04-ai-integration/
-│   ├── model-interfaces/
-│   ├── agent-patterns/
-│   └── guardrails/
-├── docs/
-│   ├── README.md
-│   ├── learning-notes.md
-│   ├── weekly-progress.md
-│   └── architecture-decisions.md
-└── README.md
 
 **00-foundations/ 🏗️** – Core programming and problem-solving  
 - `python-basics/` – Python syntax, functions, OOP  
@@ -80,6 +56,36 @@ sentinel-flow/
 
 ---
 
+## 🗂️ Repo Structure
+```bash
+sentinel-flow/
+├── 00-foundations/
+│   ├── python-basics/
+│   ├── data-structures/
+│   └── algorithms/
+├── 01-backend-systems/
+│   ├── api-design/
+│   ├── auth-patterns/
+│   └── service-architecture/
+├── 02-distributed-systems/
+│   ├── trust-boundaries/
+│   ├── message-flows/
+│   └── failure-models/
+├── 03-secure-by-design/
+│   ├── threat-models/
+│   ├── secure-pipelines/
+│   └── architecture-diagrams/
+├── 04-ai-integration/
+│   ├── model-interfaces/
+│   ├── agent-patterns/
+│   └── guardrails/
+├── docs/
+│   ├── README.md
+│   ├── learning-notes.md
+│   ├── weekly-progress.md
+│   └── architecture-decisions.md
+└── README.md
+
 ## 🧩 How This Repository Works
 
 1. **Foundations** → Learn coding, DS&A, algorithms, and basic problem-solving  
@@ -110,11 +116,3 @@ This approach ensures that **concepts build on each other**, and **Sentinel Flow
 ```bash
 git clone https://github.com/cowajoba-cloud/sentinel-flow.git
 cd sentinel-flow
-
----
-
-## 📞 Contact
-Charles Owajoba
-MSc Computer Science (Software Engineering)
-GitHub: https://github.com/cowajoba-cloud 
-LinkedIn: https://www.linkedin.com/in/charlesowajoba/ 
