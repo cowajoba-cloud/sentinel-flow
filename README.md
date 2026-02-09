@@ -31,20 +31,53 @@ It signals:
 ## 📂 Repository Structure
 
 sentinel-flow/
-├── 00-foundations/ # Core programming, data structures, algorithms
-├── 01-backend-systems/ # APIs, auth patterns, service design
-├── 02-distributed-systems/ # Trust boundaries, message flows, failure models
-├── 03-secure-by-design/ # Threat modeling, secure pipelines, architecture
-├── 04-ai-integration/ # Model interfaces, agents, guardrails
-└── docs/
+
+00-foundations/ 🏗️
+├── python-basics/
+├── data-structures/
+└── algorithms/
+
+01-backend-systems/ ⚙️
+├── api-design/
+├── auth-patterns/
+└── service-architecture/
+
+02-distributed-systems/ 🌐
+├── trust-boundaries/
+├── message-flows/
+└── failure-models/
+
+03-secure-by-design/ 🛡️
+├── threat-models/
+├── secure-pipelines/
+└── architecture-diagrams/
+
+04-ai-integration/ 🤖
+├── model-interfaces/
+├── agent-patterns/
+└── guardrails/
+
+docs/ 📄
+├── README.md
 ├── learning-notes.md
 ├── weekly-progress.md
 └── architecture-decisions.md
+---
 
+**How to use this repo:**  
 
-Each directory answers one question:
+1. Start with `/00-foundations` → core programming, DS&A.  
+2. Move to `/01-backend-systems` → APIs, services, authentication patterns.  
+3. Continue with `/02-distributed-systems` → design resilient and scalable systems.  
+4. Add `/03-secure-by-design` → integrate security in pipelines and architecture.  
+5. Explore `/04-ai-integration` → AI patterns and guardrails for systems.  
+6. Document progress and decisions in `/docs`.  
 
-> *Can this person design systems — not just write code?*
+**Goals:**  
+
+- Build **real engineering skills**.  
+- Maintain **defensible commits** for LinkedIn/GitHub.  
+- Prepare for **week-by-week learning and exercises**.  
 
 ---
 
@@ -59,16 +92,7 @@ It gradually evolves into:
 - detection logic
 - system-level observability
 
-The project grows intentionally and incrementally — mirroring real engineering constraints.
-
----
-
-## How to read this repository
-
-- Start with `docs/learning-notes.md` for conceptual grounding
-- Review `docs/weekly-progress.md` for iteration and consistency
-- Explore folders in order — foundations → systems → security
-- Sentinel Flow components emerge naturally from the learning path
+The project grows intentionally and incrementally - mirroring real engineering constraints.
 
 ---
 
