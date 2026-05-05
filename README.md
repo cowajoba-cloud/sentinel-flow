@@ -25,6 +25,9 @@ This repository bridges my **MSc research labs**, **PhD preparation**, and **rea
 - 📈 Provide a foundation for **future startup MVPs and Sentinel Flow product evolution**
 
 ---
+![alt text](../Lab01-SecureDistributedCloud/ArchSentinel-Flow-Preprint/assets/hero_operational_intelligence.png)
+
+---
 
 **00-foundations/ 🏗️** – Core programming and problem-solving  
 - `python-basics/` – Python syntax, functions, OOP  
